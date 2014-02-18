@@ -29,7 +29,7 @@ namespace TWiT.Tv.Coding101
 		/// </summary>        
 		static void Main(string[] args)
 		{
-			//Ask the user to enter a binary number:
+			//Ask the user to enter a Whole number:
 			Console.Write("Please Enter a Whole Number (example: 240): ");
 
 			//This is where we read what binary number the user typed and hit <enter>
